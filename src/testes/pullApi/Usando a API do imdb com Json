@@ -1,0 +1,19 @@
+API Key: &apikey=223b6110
+
+==-- API e json --==
+    Esse projeto usa a API do OMDb, simplesmente porque é open-source
+    Ele ainda precisa de uam key pra funcionar
+    Testes em um site de API de CEP's: https://viacep.com.br/
+
+
+==-- Pesquisa --==
+https://www.google.com/search?q=como+usar+a+api+do+imdb&rlz=1C1WNOO_pt-PTBR974BR974&oq=como+usar&aqs=chrome.0.69i59j69i57j0i512l5j69i61.10513j0j7&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:5627a804,vid:ZJvUlIrM-P0
+https://rapidapi.com/blog/how-to-use-imdb-api/
+https://www.google.com/search?q=como+usar+a+api+do+imdb&rlz=1C1WNOO_pt-PTBR974BR974&oq=como+usar+a+api+do+imdb&aqs=chrome..69i57j33i160l5j33i22i29i30l4.8105j0j7&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:d9f88a1c,vid:KqAjHgxy658
+https://arthur-almeida.medium.com/consumindo-uma-api-de-maneira-simples-com-java-2a386010e4b9
+https://examples.javacodegeeks.com/core-java/net/url/java-net-url-example/
+
+==-- Ponto de parada --==
+- Na hora de consumir a API (enviar a url e puxar os dados que ela fornece)
+- Pegando info de montar o try/catch da requisição
+- Talvez usar o vídeo do let's code para base na montagem da API com OMDb
