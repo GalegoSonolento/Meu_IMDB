@@ -2,6 +2,7 @@ package testes.pullApi.cliente;
 
 import testes.pullApi.endereco.Endereco;
 import testes.pullApi.servCep.ServDeCEP;
+import testes.pullIMDb.prodAudioVisual.ProdAudioVisual;
 
 import java.util.Scanner;
 

@@ -2,26 +2,32 @@ package testes.pullIMDb.prodAudioVisual;
 //O código de verdade vai ser acoplado aqui
 
 public class ProdAudioVisual {
-    private String year, runtime, type;
+    private String Year, Runtime, Type;
+
+    public ProdAudioVisual(String year, String runtime, String type) {
+        this.Year = year;
+        this.Runtime = runtime;
+        this.Type = type;
+    }
 
     public String getYear() {
-        return year;
+        return Year;
     }
 
     public String getRuntime() {
-        return runtime;
+        return Runtime;
     }
 
     public String getType() {
-        return type;
+        return Type;
     }
 
     @Override
     public String toString() {
         return "ProdAudioVisual{" +
-                "year='" + year + '\'' +
-                ", runtime='" + runtime + '\'' +
-                ", type='" + type + '\'' +
+                "year='" + Year + '\'' +
+                ", runtime='" + Runtime + '\'' +
+                ", type='" + Type + '\'' +
                 '}';
     }
 }
